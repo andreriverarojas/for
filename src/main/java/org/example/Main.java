@@ -14,7 +14,7 @@ public class Main {
         nombre.put(2, "Andre");
         nombre.put(3, "Robin");
         nombre.put(4, "antony");
-        //System.out.println(nombre.get(4));
+        System.out.println(nombre.get(4));
 
         for(String i: nombre.values()){
             System.out.println(i);
